@@ -1,4 +1,4 @@
-package 剑指offer.腾讯2017暑假实习生编程题;
+package 腾讯2017暑假实习生编程题;
 
 import java.util.Scanner;
 

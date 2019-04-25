@@ -1,4 +1,4 @@
-package 剑指offer.华为20190327;
+package 华为20190327;
 
 import java.util.Scanner;
 
